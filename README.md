@@ -12,7 +12,7 @@ A stunning, responsive portfolio landing page designed with a vibrant purple the
 
 ## Live Demo
 
-[Check out the live demo](#) *(Add your live link here)*
+[Check out the live demo](#) *(https://coderpriyanshu007.github.io/Portfolio-Purple/)*
 
 ---
 
