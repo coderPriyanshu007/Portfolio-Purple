@@ -26,8 +26,8 @@ A stunning, responsive portfolio landing page designed with a vibrant purple the
 ---
 
 ## Preview
+![image](https://github.com/user-attachments/assets/7d10fe6b-3af6-4609-a6b2-f88ab4f9f634)
 
-[{F6758014-67CA-4EC4-B74A-8D8A7D6F454F}](https://github.com/user-attachments/assets/ccc42055-34a2-4cc3-aebb-6f2c4821f3ba)
 
 
 
